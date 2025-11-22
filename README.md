@@ -3,4 +3,5 @@
 Homework 1 for the Afeka Web course.
 
 ## Live Website
-https://<your-github-username>.github.io/AfekaYaish/WEB_HW1/
+https://<github-username>.github.io/AfekaYaish/WEB_HW1/
+
